@@ -4,7 +4,7 @@ title: Home
 
 # Welcome to the Impact Evaluation Training!
 
-{% include figure.html img="3ie_logo.png" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="3ie_logo.png" alt="intro image here" caption="" width="75%" %}
 
 
 *Add your workshop abstract here!*
