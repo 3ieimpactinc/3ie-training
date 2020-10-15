@@ -9,6 +9,7 @@ nav: true
 
 ## Week 1
 
+[Click here](/"materials/week1") to download week 1 materials
 
 ## Week 2
 
